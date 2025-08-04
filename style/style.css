@@ -1,16 +1,29 @@
 main{
-    max-width: 350px;
+    max-width: 320px;
     height: 400px;
-    background-color: hotpink;
+    margin: 0 auto;
+    background-color: darkmagenta;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0,1);
 }
 .card-pp img{
-    width: 300px;
-    border-radius: 10px;
-}
-.card-pp{
-    text-align: center;
-    padding-top: 5px;
+    width: 320px;
 }
 .card-description{
+    padding-left: 25px;
+}
+.btn-1{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    border: none;
+    background-color: tomato;
+    color: white;
+}
+.btn-1:hover{
+    background-color: green;
+}
+.btn{
     padding-left: 25px;
 }

@@ -2,7 +2,7 @@ main{
     max-width: 320px;
     height: 400px;
     margin: 0 auto;
-    background-color: darkmagenta;
+    background-color:bisque;
     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0,1);
 }
 .card-pp img{
